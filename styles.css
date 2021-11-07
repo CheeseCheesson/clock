@@ -43,7 +43,7 @@ body{
     transition: all 0.05s;
     transition-timing-function: cubic-bezier(0.1, 2.1, 0.58, 1);
 }
-.min-hand{
+.hour-hand{
     width: 35%;
     left: 47px;
 }
